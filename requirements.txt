@@ -1,0 +1,4 @@
+PySide6>=6.8,<7.0
+numpy>=1.26,<3.0
+imageio>=2.34,<3.0
+imageio-ffmpeg>=0.5,<1.0
